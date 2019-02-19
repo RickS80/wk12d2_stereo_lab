@@ -19,7 +19,7 @@ public class RecordDeckTest {
     }
 
     @Test
-    public void hasName(){
+    public void hasMake(){
         assertEquals("JVC", recordDeck.getMake());
     }
 
@@ -35,18 +35,9 @@ public class RecordDeckTest {
     }
 
     @Test
-    public void canGetVolume(){
-        assertEquals(10, recordDeck.getVolume());
-    }
-
-    @Test
-    public void canGetBass(){
-        assertEquals(10, recordDeck.getBass());
-    }
-
-    @Test
-    public void canGetTreble(){
-        assertEquals(10, recordDeck.getTreble());
+    public void canPlayRecord(){
+        String value = recordDeck.playRecord("FireStarter!");
+        assertEquals(value, "Playing FireStarter!");
     }
 
 }

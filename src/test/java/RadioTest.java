@@ -10,7 +10,7 @@ public class RadioTest {
     @Before
 
     public void before() {
-        radio = new Radio("Forth2");
+        radio = new Radio("Hitachi", "X12", "Forth2");
     }
 
     @Test
@@ -20,20 +20,18 @@ public class RadioTest {
     }
 
     @Test
-    public void canGetVolume(){
-        assertEquals(10, radio.getVolume());
+    public void canGetMake(){
+        assertEquals("Hitachi", radio.getMake());
     }
 
     @Test
-    public void canGetBass(){
-        assertEquals(10, radio.getBass());
+    public void canGetModel(){
+        assertEquals("X12", radio.getModel());
     }
+
 
     @Test
-    public void canGetTreble(){
-        assertEquals(10, radio.getTreble());
+    public void canPlayTune(){
+        assertEquals("Playing Forth2", radio.playTune());
     }
-
-
-
 }

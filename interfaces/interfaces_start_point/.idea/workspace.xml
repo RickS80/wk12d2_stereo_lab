@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80dd82bc-b4d9-4c50-ae78-f1103c466ecc" name="Default" comment="" />
+    <list default="true" id="80dd82bc-b4d9-4c50-ae78-f1103c466ecc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../src/test/java/StereoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/classes/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/classes/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/classes/Radio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/classes/Radio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/classes/RecordDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/classes/RecordDeck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/test/classes/RadioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/test/classes/RadioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/test/classes/RecordDeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/test/classes/RecordDeckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/main/java/RecordDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/test/java/RadioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/test/java/RecordDeckTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Athlete.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -118,6 +132,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -145,11 +162,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="413" />
-    <option name="y" value="95" />
+    <option name="y" value="23" />
     <option name="width" value="1147" />
     <option name="height" value="689" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -364,7 +381,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="95" width="1147" height="689" extended-state="0" />
+    <frame x="0" y="23" width="1147" height="689" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26787332" />
@@ -384,7 +401,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.2874828" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3283082" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -494,7 +511,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Athlete.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>

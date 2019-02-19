@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da2fdfc0-7e82-44f5-96ca-2f7a7a9c62c9" name="Default Changelist" comment="" />
+    <list default="true" id="da2fdfc0-7e82-44f5-96ca-2f7a7a9c62c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/StereoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/interfaces_start_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Radio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Radio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/RecordDeck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/RecordDeck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RadioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RadioTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/RecordDeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/RecordDeckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RecordDeck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RecordDeck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RadioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RecordDeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RecordDeckTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -18,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -30,17 +44,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Stereo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StereoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/RecordDeck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -48,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RecordDeckTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -57,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="45">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -66,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RadioTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="35" />
+            <state relative-caret-position="225">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -78,6 +110,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -89,24 +122,28 @@
       <replace>recordDeck</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/Stereo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Component.java" />
         <option value="$PROJECT_DIR$/src/test/java/RadioTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/RecordDeckTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Stereo.java" />
         <option value="$PROJECT_DIR$/src/main/java/RecordDeck.java" />
         <option value="$PROJECT_DIR$/src/main/java/Radio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IPlay.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="227" />
-    <option name="y" value="176" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1147" />
     <option name="height" value="689" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,7 +200,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550577932545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550583083277" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -187,11 +224,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RadioTest.canPlayTune" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.example.Stereo.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="canPlayTune" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RecordDeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.example.Stereo.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RecordDeckTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordDeckTest.canPlayRecord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.example.Stereo.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RecordDeckTest" />
+      <option name="METHOD_NAME" value="canPlayRecord" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -209,8 +266,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RecordDeckTest" />
-        <item itemvalue="JUnit.RecordDeckTest.hasSpeed" />
         <item itemvalue="JUnit.RadioTest" />
+        <item itemvalue="JUnit.RecordDeckTest.canPlayRecord" />
+        <item itemvalue="JUnit.RadioTest.canPlayTune" />
+        <item itemvalue="JUnit.RecordDeckTest.hasSpeed" />
       </list>
     </recent_temporary>
   </component>
@@ -228,12 +287,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RadioTest - 2019.02.19 at 11h 42m 51s.xml">
-      <configuration name="RadioTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecordDeckTest - 2019.02.19 at 11h 48m 06s.xml">
-      <configuration name="RecordDeckTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RecordDeckTest - 2019.02.19 at 11h 48m 55s.xml">
       <configuration name="RecordDeckTest" configurationId="JUnit" />
     </history-entry>
@@ -246,9 +299,27 @@
     <history-entry file="RecordDeckTest - 2019.02.19 at 11h 56m 22s.xml">
       <configuration name="RecordDeckTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RadioTest_canPlayTune - 2019.02.19 at 12h 52m 25s.xml">
+      <configuration name="RadioTest.canPlayTune" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RadioTest_canPlayTune - 2019.02.19 at 12h 53m 05s.xml">
+      <configuration name="RadioTest.canPlayTune" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecordDeckTest_canPlayRecord - 2019.02.19 at 12h 54m 35s.xml">
+      <configuration name="RecordDeckTest.canPlayRecord" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecordDeckTest - 2019.02.19 at 13h 09m 20s.xml">
+      <configuration name="RecordDeckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecordDeckTest - 2019.02.19 at 13h 10m 38s.xml">
+      <configuration name="RecordDeckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecordDeckTest - 2019.02.19 at 13h 11m 33s.xml">
+      <configuration name="RecordDeckTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="227" y="176" width="1147" height="689" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="689" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -256,13 +327,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24977376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22294022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.19504951" />
-      <window_info anchor="bottom" id="Messages" weight="0.32970297" />
+      <window_info anchor="bottom" id="Messages" weight="0.32805756" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.55778897" />
@@ -284,43 +355,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/RadioTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="35" />
+        <state relative-caret-position="225">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RecordDeckTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SterioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StereoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Stereo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RecordDeck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RecordDeck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

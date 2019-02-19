@@ -1,13 +1,12 @@
-public class RecordDeck extends Component {
+public class RecordDeck extends Component implements IPlay {
 
     private int speed;
     private String make;
     private String model;
 
     public RecordDeck(String make, String model, int speed){
+        super(make, model);
         this.speed = speed;
-        this.make = make;
-        this.model = model;
     }
 
     public int getSpeed() {
@@ -17,16 +16,7 @@ public class RecordDeck extends Component {
     public void setSpeed(int speed) {
         this.speed = speed;
     }
-
-    public String getMake() {
-        return make;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
-    public String playRecord(String record){
+    public String play(String record){
         return "Playing " + record;
     }
 }

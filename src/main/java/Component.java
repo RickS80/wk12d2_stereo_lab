@@ -1,24 +1,20 @@
 public abstract class Component {
 
-    protected int volume;
-    protected int bass;
-    protected int treble;
+    protected String make;
+    protected String model;
 
-    public Component(){
-        this.volume = 10;
-        this.bass = 10;
-        this.treble = 10;
+
+    public Component(String make, String model){
+        this.make = make;
+        this.model = model;
     }
 
-    public int getVolume() {
-        return volume;
+    public String getMake() {
+        return make;
     }
 
-    public int getBass() {
-        return bass;
+    public String getModel() {
+        return model;
     }
 
-    public int getTreble() {
-        return treble;
-    }
 }
